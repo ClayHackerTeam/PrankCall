@@ -1,12 +1,12 @@
-# SpamCall
+# PrankCall
 FB {}
-{ CHANDRA ADITYA }
+{ Bartes Dwiky }
 UPDATE 16-January-2019
 <b><li>Spam Call Unlimited</b>
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
 <li>$ pkg install git
-<li>$ git clone https://github.com/Aditya021/SpamCall
+<li>$ git clone https://github.com/ClayHackerTeam/PrankCall
 <li>$ cd SpamSms
 <li>$ php SpamCall.php
 <li> Masukan No Target ===> 
